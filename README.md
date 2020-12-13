@@ -1,10 +1,22 @@
-# Analysing Negative Tweets
+# Stream.Bit 
 
-A Machile Learning pipeline feeding an analytical dashboard using Kafka, Sagemaker and Quicksights to give companies insight regarding negative tweets. 
+A full stack ML pipeline feeding an analytical dashboard that gives companies insight regarding the negative sentiment posted on tweets.
 
-## Objective 
 
-This model gives companies a tool to understand their bad publicity on social media, specifically Twitter. Allowing the companies to understand where the bad comments come from and the topics they are related to can help them improve their products and services and reduce the bad publicity. 
+## Solution
+
+Our  solution gives companies a comprehensive platform to understand in real-time whenever negative sentiments towards the company arise on social media, specifically Twitter. Our solution allows companies to understand where the bad comments come from and the topics they are related to. The visualization of this data is an effective tool for companies to improve their products and services and reduce consumer negative publicity on social media.
+
+## Technologies Used
+
+- Python3.8
+- AWS SageMaker
+- AWS S3
+- kafka
+- ksqlDB
+- AWS Quicksight
+- Twitter API
+- Docker
 
 
 # Data Flow
