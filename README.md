@@ -1,6 +1,6 @@
 # Stream.Bit 
 
-A full stack ML pipeline feeding an analytical dashboard that gives companies insight regarding the negative sentiment posted on tweets.
+A full stack ML pipeline that feeds an analytical dashboard which gives companies insight regarding the negative sentiment posted on tweets.
 
 
 ## Solution
