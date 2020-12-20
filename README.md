@@ -23,6 +23,8 @@ Our  solution gives companies a comprehensive platform to understand in real-tim
 
 ![alt text](https://github.com/DRAE-MLP/PreprocessTweet/blob/master/Twitter%20Diagram.png)
 
-# Dashboard 
+# More
+ 
+[QuickSight Dashboard](https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/6620b339-aca6-4437-aff3-fff4992eec1d) 
 
-https://us-east-1.quicksight.aws.amazon.com/sn/dashboards/6620b339-aca6-4437-aff3-fff4992eec1d
+[Video](https://youtu.be/zelvtjkOxCo) 
